@@ -1,2 +1,2 @@
-let example='example string'
+let example = 'example string'
 console.log(example.length)
